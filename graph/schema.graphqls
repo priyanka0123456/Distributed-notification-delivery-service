@@ -1,0 +1,11 @@
+type Notification {
+  id: ID!
+  userId: ID!
+  postId: ID!
+  message: String!
+  timestamp: Int!
+}
+
+type Query {
+  getNotifications(userId: ID!): [Notification!]!
+}
