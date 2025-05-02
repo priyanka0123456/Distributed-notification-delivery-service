@@ -20,5 +20,5 @@ This project implements a Distributed Notification Delivery Service for Paper.So
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/priyanka0123456/Distributed-notification-delivery-service/tree/master
    cd distributed-notification-delivery-service
